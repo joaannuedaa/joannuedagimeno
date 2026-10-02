@@ -1,2 +1,1 @@
-# joannuedagimeno
-Repositorio principal de la cuenta
+# Joan Nueda Gimeno
