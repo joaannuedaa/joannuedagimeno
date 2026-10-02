@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi perfil de GitHub!
 
-Soy Joan Nueda, estudiante de un **Grado Medio en Sistemas Microinformáticos y Redes**, con interés por la informática, el hardware, las redes y el software.
+Soy Joan Nueda, estudiante de un **Grado Superior de Desarrollo de Aplicaciones Multiplataforma**, con interés por la informática, el hardware, las redes y el software.
 
 Además del mundo tecnológico, me gusta trabajar con niños y participar en actividades deportivas, especialmente relacionadas con el fútbol.
 
